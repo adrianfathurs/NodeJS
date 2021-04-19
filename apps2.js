@@ -1,0 +1,1 @@
+const negara="Indonesia"
